@@ -1,0 +1,14 @@
+﻿  main.cpp
+E:\c++\huffman树\huffman树\huffmanTree.h(46,32): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+E:\c++\huffman树\huffman树\huffmanTree.h(42): message : while compiling class template member function 'void huffmanTree<char>::createHuffmanTree(const T *,const double *)'
+          with
+          [
+              T=char
+          ]
+E:\c++\huffman树\huffman树\main.cpp(10): message : see reference to function template instantiation 'void huffmanTree<char>::createHuffmanTree(const T *,const double *)' being compiled
+          with
+          [
+              T=char
+          ]
+E:\c++\huffman树\huffman树\main.cpp(9): message : see reference to class template instantiation 'huffmanTree<char>' being compiled
+  huffman树.vcxproj -> E:\c++\huffman树\x64\Debug\huffman树.exe
