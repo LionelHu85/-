@@ -1,0 +1,10 @@
+﻿  8.3结构体数组.cpp
+E:\c++\结构体\结构体\8.3结构体数组.cpp(16,17): error C2079: 'stuArray' uses undefined struct 'main::Student'
+E:\c++\结构体\结构体\8.3结构体数组.cpp(17,2): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+E:\c++\结构体\结构体\8.3结构体数组.cpp(17,2): message : The initializer contains too many elements
+E:\c++\结构体\结构体\8.3结构体数组.cpp(25,12): error C2109: subscript requires array or pointer type
+E:\c++\结构体\结构体\8.3结构体数组.cpp(26,12): error C2109: subscript requires array or pointer type
+E:\c++\结构体\结构体\8.3结构体数组.cpp(27,12): error C2109: subscript requires array or pointer type
+E:\c++\结构体\结构体\8.3结构体数组.cpp(31,36): error C2109: subscript requires array or pointer type
+E:\c++\结构体\结构体\8.3结构体数组.cpp(32,32): error C2109: subscript requires array or pointer type
+E:\c++\结构体\结构体\8.3结构体数组.cpp(33,32): error C2109: subscript requires array or pointer type
